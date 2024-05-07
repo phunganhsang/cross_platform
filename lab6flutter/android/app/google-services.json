@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "648579417889",
+    "project_id": "flashchat-b5a4a",
+    "storage_bucket": "flashchat-b5a4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648579417889:android:0fa5dd15b27a325afc2060",
+        "android_client_info": {
+          "package_name": "com.example.flashchat_lab6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8oDPeV8Yn8sNM_BuXBIRHQG24Yv_eUW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
